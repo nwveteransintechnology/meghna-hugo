@@ -55,7 +55,7 @@ weight = 8
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 google_analytics_id = ""
-logo = "/images/vitlogo.png"
+logo = "/images/vitlogo.jpg"
 post_share = true
 [params.map]
 enable = false
