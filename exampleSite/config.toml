@@ -55,7 +55,7 @@ weight = 8
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 google_analytics_id = ""
-logo = "images/logo.png"
+logo = "/images/vitlogo.png"
 post_share = true
 [params.map]
 enable = false
@@ -88,7 +88,7 @@ link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-facebook"
