@@ -5,7 +5,6 @@ image_webp: "/images/cat.webp"
 image: "/images/cat.jpg"
 author: Admin
 description: This is meta description
-draft: true
 
 ---
-Meetup page is: [https://www.meetup.com/Veterans-in-Technology/](https://www.meetup.com/Veterans-in-Technology/ "https://www.meetup.com/Veterans-in-Technology/")
+For upcoming events please go to our Meetup page: [https://www.meetup.com/Veterans-in-Technology/](https://www.meetup.com/Veterans-in-Technology/ "https://www.meetup.com/Veterans-in-Technology/")
