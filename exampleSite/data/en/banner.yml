@@ -7,6 +7,6 @@ banner:
   title: 'Website coming soon! '
   content: ''
   button:
-    enable: true
+    enable: false
     label: Explore Us
     link: "#services"
