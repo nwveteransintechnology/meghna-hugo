@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: ''
-  bg_image: "/images/adrian-ymoqsmiizcy-unsplash.jpg"
+  bg_image_webp: "/images/portland.webp"
+  bg_image: "/images/portland.jpg"
   icon: ''
   title: 'Website coming soon! '
   content: ''
