@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image_webp: "/images/adrian-ymoqsmiizcy-unsplash.jpg"
+  bg_image_webp: ''
   bg_image: "/images/adrian-ymoqsmiizcy-unsplash.jpg"
   icon: ''
   title: 'Website coming soon! '
